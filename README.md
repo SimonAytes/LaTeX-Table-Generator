@@ -67,4 +67,4 @@ If your issues still persists, please create an issue on the GitHub project's pa
 
 # Contact
 
-[Send me an email](mailto:simon.aytes@lc.cuny.edu?subject=[GitHub]%20LatexTableGenerator%20Issue) **or** contact me via my [personal site](www.saytes.io).
+[Send me an email](mailto:simon.aytes@lc.cuny.edu?subject=[GitHub]%20LatexTableGenerator%20Issue) **or** contact me via my [personal site](https://www.saytes.io).
