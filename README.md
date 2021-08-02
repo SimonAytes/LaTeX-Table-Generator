@@ -2,7 +2,7 @@
 
 ## Description
 
-Creating tables in LaTeX is a labor-intensive provess that is prone to errors. This program remedies this by allowing you to generate a table in a matter of seconds. By inputting a tab-delimited `.txt` file, this program generates a `.tex` file containing a table with default formatting.
+Creating tables in LaTeX is a labor-intensive process that is prone to errors. This program remedies this by allowing you to generate a table in a matter of seconds. By inputting a tab-delimited `.txt` file, this program generates a `.tex` file containing a table with default formatting.
 
 # Running the application
 
